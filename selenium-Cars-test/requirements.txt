@@ -1,0 +1,3 @@
+selenium==4.1.0
+HTMLTestRunner==1.0.4
+webdriver-manager==3.5.4
